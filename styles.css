@@ -1,5 +1,9 @@
 /* styles.css */
 
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .page-banner {
     text-align: center;
     background-color: rgba(33, 82, 59, 0.66);
